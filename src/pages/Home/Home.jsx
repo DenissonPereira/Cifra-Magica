@@ -1,9 +1,11 @@
-
+import Header from "../../components/layout/Header/Header"
+import Nav from "../../components/layout/Nav/Nav"
 
 const Home = () => {
   return (
     <div>
-        home
+        <Nav />
+        <Header />
     </div>
   )
 }
