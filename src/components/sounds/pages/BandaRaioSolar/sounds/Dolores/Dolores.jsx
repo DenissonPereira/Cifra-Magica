@@ -1,3 +1,4 @@
+import { useState, useRef } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -11,7 +12,36 @@ import Doloresmusics from "./Doloresmusics";
 import "./Dolores.sass";
 
 function Dolores() {
-  
+  const [valorRange, setValorRange] = useState(0);
+  const intervaloRef = useRef(null);
+
+  const handleRangeChange = (event) => {
+    const novoValorRange = event.target.value;
+    setValorRange(novoValorRange);
+  };
+
+  const rolar = () => {
+    clearInterval(intervaloRef.current);
+
+    const quantidadeRolagemPorEtapa = 10;
+
+    intervaloRef.current = setInterval(() => {
+
+      const posicaoAtual = window.scrollY;
+
+      const proximaPosicao = posicaoAtual + quantidadeRolagemPorEtapa;
+
+      window.scrollTo({
+        top: proximaPosicao,
+        behavior: "auto", 
+      });
+
+      if (proximaPosicao >= document.body.scrollHeight - window.innerHeight) {
+ 
+        clearInterval(intervaloRef.current);
+      }
+    }, valorRange); 
+  };
 
   return (
     <div className="dolores">
@@ -56,8 +86,15 @@ function Dolores() {
             <div className="coluna">
               <img src={LogoRaioSolar} alt="" />
               <div className="funcionalidades">
-                <button>Auto Rolagem</button>
-                <input type="range" name="" id="meuInput" min={50} max={2000}/>
+                <button onClick={rolar}>Auto Rolagem</button>
+                <input
+                  type="range"
+                  name=""
+                  id="meuInput"
+                  min={0}
+                  max={2000}
+                  onChange={handleRangeChange}
+                />
                 <button>Texto</button>
                 <button>Tom</button>
                 <button>Acordes</button>
