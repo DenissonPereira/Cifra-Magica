@@ -1,8 +1,13 @@
+import Listgroups from "../../components/ListGroups/Listgroups"
+import NavScrollExample from "../../components/layout/Nav/Nav"
 
 
 const Listas = () => {
   return (
-    <div>listas</div>
+    <div>
+      <NavScrollExample />
+      <Listgroups />
+    </div>
   )
 }
 
