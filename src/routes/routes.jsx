@@ -1,7 +1,7 @@
 import {Route, Routes} from 'react-router-dom';
-import Home from '../pages/Home/home';
-import Listas from '../pages/Listas/listas';
-import About from '../pages/about/about';
+import Home from '../pages/Home/Home';
+import Listas from '../pages/Listas/Listas';
+import About from '../pages/About/About';
 
 function RoutesApp() {
     return ( 
