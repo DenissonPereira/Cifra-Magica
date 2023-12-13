@@ -14,7 +14,7 @@ function DefaultExample() {
           <div className="fw-bold">
           <Nav.Link as={Link} to='/Cifra-Magica/listas/bandaraiosolar'>Banda Raio Solar</Nav.Link>
           </div>
-          <Nav.Link as={Link} to='/Cifra-Magica'>Dolores</Nav.Link>
+          <Nav.Link as={Link} to='/Cifra-Magica/listas/bandaraiosolar/dolores'>Dolores</Nav.Link>
           <Nav.Link as={Link} to='/Cifra-Magica'>Quem Eu quero Não Me Quer</Nav.Link>
         </div>
         <Badge bg="primary" pill>
