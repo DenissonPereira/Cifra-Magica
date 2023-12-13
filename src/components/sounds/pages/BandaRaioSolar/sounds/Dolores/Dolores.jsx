@@ -11,6 +11,8 @@ import Doloresmusics from "./Doloresmusics";
 import "./Dolores.sass";
 
 function Dolores() {
+  
+
   return (
     <div className="dolores">
       <NavScrollExample></NavScrollExample>
@@ -55,7 +57,7 @@ function Dolores() {
               <img src={LogoRaioSolar} alt="" />
               <div className="funcionalidades">
                 <button>Auto Rolagem</button>
-                <input type="range" name="" id="" />
+                <input type="range" name="" id="meuInput" min={50} max={2000}/>
                 <button>Texto</button>
                 <button>Tom</button>
                 <button>Acordes</button>
