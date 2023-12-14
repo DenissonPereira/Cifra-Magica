@@ -1,8 +1,11 @@
+import NavScrollExample from "../../../../layout/Nav/Nav"
 
 
 const Bandaraiosolar = () => {
   return (
-    <div>Bandaraiosolar</div>
+    <div>
+      <NavScrollExample />
+    </div>
   )
 }
 

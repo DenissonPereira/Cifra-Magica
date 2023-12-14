@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import palavrasChaves from '../../scripts/palavras';
 import './Buscador.sass';
+import './BuscadorResponsivo.sass'
 
 const Buscador = () => {
     const [key, setKey] = useState('');
