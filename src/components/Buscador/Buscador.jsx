@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import palavrasChaves from '../../scripts/palavras';
 import './Buscador.sass';
+import './BuscadorResponsivo.sass'
+import Nav from '../layout/Nav/Nav'
 
 const Buscador = () => {
     const [key, setKey] = useState('');
@@ -34,25 +36,27 @@ const Buscador = () => {
     }, []); 
 
     return (
-        <div className='buscador_principal'>
-            <p>CIFRA <span className='magica'>Mágica</span></p>
-            <div className='buscar'>
-                <input
-                    title='Pesquise cifras aqui'
-                    type='search'
-                    id='searchInput'
-                    className='barra_pesquisa'
-                    placeholder='     Pesquisar cifras...'
-                    value={key}
-                    onChange={(e) => setKey(e.target.value)}
-                />
-                <button
-                    title='Ir'
-                    className='btn_ir'
-                    id='meuBotao'
-                    ref={meuBotaoRef} 
-                    onClick={pesquisar}
-                >Ir</button>
+        <div className="principal">
+            <div className='buscador_principal'>
+                <p>CIFRA <span className='magica'>Mágica</span></p>
+                <div className='buscar'>
+                    <input
+                        title='Pesquise cifras aqui'
+                        type='search'
+                        id='searchInput'
+                        className='barra_pesquisa'
+                        placeholder='     Pesquisar cifras...'
+                        value={key}
+                        onChange={(e) => setKey(e.target.value)}
+                    />
+                    <button
+                        title='Ir'
+                        className='btn_ir'
+                        id='meuBotao'
+                        ref={meuBotaoRef}
+                        onClick={pesquisar}
+                    >Ir</button>
+                </div>
             </div>
         </div>
     );

@@ -1,11 +1,11 @@
 import Header from "../../components/layout/Header/Header"
-import Nav from "../../components/layout/Nav/Nav"
+import NavScrollExample from "../../components/layout/Nav/Nav"
 
 const Home = () => {
   return (
-    <div>
-        <Nav />
-        <Header />
+    <div className="home">
+      <NavScrollExample />
+      <Header />
     </div>
   )
 }
