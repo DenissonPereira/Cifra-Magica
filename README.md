@@ -35,7 +35,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 
 ## Pré-requisitos
 
-Você precisa ter o npm e o Vite instalados em seu computador. O npm está disponível com o NodeJS, e para baixá-lo, basta clicar no link abaixo:
+Você precisa ter o npm instalado em seu computador. O npm está disponível com o NodeJS, e para baixá-lo, basta clicar no link abaixo:
 
 [![NPM](https://img.shields.io/badge/NodeJS-228B22)](https://nodejs.org/en)
 
@@ -59,7 +59,7 @@ Aguarde a conclusão da compilação e vá para http://localhost:5173/Cifra-Magi
 
 >O projeto está atualmente em desenvolvimento, e o ambiente aberto para contribuições de qualquer pessoa adiciona uma dimensão colaborativa e comunitária ao seu crescimento. Essa abertura para a participação externa não apenas enriquece o conteúdo disponível, mas também promove a diversidade musical, tornando o Cifra Mágica uma plataforma inclusiva para músicos de todos os estilos e origens. Com a combinação de praticidade, personalização e colaboração, o Cifra Mágica promete ser uma ferramenta valiosa e inspiradora para músicos em todo o mundo.
 
-# ✏️ Autor ✏️
+## ✏️ Autor ✏️
 
 Denisson Pereira Santos
 
