@@ -6,9 +6,9 @@
 
 Convidamos você a explorar a aplicação **"Cifra Mágica"** em sua versão online: 
 
-[![NPM](https://denissonpereira.github.io/Cifra-Magica/)
+[![NPM](https://img.shields.io/badge/Clique%20Aqui-8A2BE2)](https://denissonpereira.github.io/Cifra-Magica/)
 
-# :bookmark_tabs: Sobre o projeto :bookmark_tabs:
+# 📑 Sobre o projeto 📑
 
 O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, proporcionando uma plataforma online dedicada à disponibilização de cifras para músicos de todos os níveis de habilidade. O objetivo principal do **Cifra Mágica** é facilitar a vida dos músicos, oferecendo recursos como *rolagem automática*, ideal para apresentações ao vivo, onde a praticidade é essencial. Além disso, uma característica distintiva do projeto é sua capacidade de alterar a cifra para *subir ou baixar o tom*, garantindo que os usuários possam ajustar as músicas de acordo com suas preferências vocais.
 
@@ -31,7 +31,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 
 - Web: `GitHub Pages`
 
-# :rocket: Como executar o projeto :rocket:
+# 🚀 Como executar o projeto 🚀
 
 ## Pré-requisitos
 
@@ -45,7 +45,7 @@ Após instalar o npm, instale as dependências do projeto com o seguinte comando
 npm install
 ```
 
-## :sparkles: Tudo pronto! :sparkles: 
+## ✨ Tudo pronto! ✨
 
 Agora basta executar o projeto com o comando:
 
@@ -59,8 +59,8 @@ Aguarde a conclusão da compilação e vá para http://localhost:5173/Cifra-Magi
 
 >O projeto está atualmente em desenvolvimento, e o ambiente aberto para contribuições de qualquer pessoa adiciona uma dimensão colaborativa e comunitária ao seu crescimento. Essa abertura para a participação externa não apenas enriquece o conteúdo disponível, mas também promove a diversidade musical, tornando o Cifra Mágica uma plataforma inclusiva para músicos de todos os estilos e origens. Com a combinação de praticidade, personalização e colaboração, o Cifra Mágica promete ser uma ferramenta valiosa e inspiradora para músicos em todo o mundo.
 
-# Autor
+# ✏️ Autor ✏️
 
-:octocat: Denisson Pereira Santos
+Denisson Pereira Santos
 
 https://github.com/DenissonPereira
