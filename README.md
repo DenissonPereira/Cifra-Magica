@@ -43,7 +43,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 
 Você precisa ter o npm instalado em seu computador. O npm está disponível com o NodeJS, e para baixá-lo, basta clicar no link abaixo:
 
-[![NPM](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)](https://nodejs.org/en) 
+[![NPM](https://img.shields.io/npm/v/npm.svg?logo=npm)](https://nodejs.org/en) 
 
 Após instalar o npm, instale as dependências do projeto com o seguinte comando no seu terminal:
 
