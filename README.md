@@ -19,7 +19,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 ![Web 2](./public/cifra2.gif) 
 
 ### 📱 Layout mobile
-![Mobile 1](./public/mob1.jpg) ![Mobile 2](./public/mob2.jpg)
+![Mobile 1](./public/mob1.png) ![Mobile 2](./public/mob2.png)
 
 ## Tecnologias utilizadas
 
