@@ -1,8 +1,5 @@
 # 🎵 Cifra Mágica 
 
-## 📜 Licença
-
-Copyright (c) 2023 Denisson Pereira Santos
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
 
@@ -66,6 +63,10 @@ Aguarde a conclusão da compilação e vá para http://localhost:5173/Cifra-Magi
 >## 🚨 Aguarde! Ainda não terminou!
 
 >O projeto está atualmente em desenvolvimento, e o ambiente aberto para contribuições de qualquer pessoa adiciona uma dimensão colaborativa e comunitária ao seu crescimento. Essa abertura para a participação externa não apenas enriquece o conteúdo disponível, mas também promove a diversidade musical, tornando o Cifra Mágica uma plataforma inclusiva para músicos de todos os estilos e origens. Com a combinação de praticidade, personalização e colaboração, o Cifra Mágica promete ser uma ferramenta valiosa e inspiradora para músicos em todo o mundo.
+
+## 📜 Licença
+
+Copyright (c) 2023 Denisson Pereira Santos.
 
 ## ✏️ Autor 
 
