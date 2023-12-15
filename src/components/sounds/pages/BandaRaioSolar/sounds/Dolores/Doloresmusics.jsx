@@ -1,4 +1,5 @@
 import { useState } from "react"
+import "./DoloresResponsivo.sass";
 
 
 const Doloresmusics = () => {
@@ -23,9 +24,11 @@ const Doloresmusics = () => {
 
   return (
     <div className="cancaoDolores">
-        <button onClick={baixarTom}>-1/2 Tom</button>
-        <button onClick={originalTom}>Original</button>
-        <button onClick={trocarTom}>1/2 Tom</button>
+        <div className="botoes">
+            <button onClick={baixarTom}>-1/2 Tom</button>
+            <button onClick={originalTom}>Original</button>
+            <button onClick={trocarTom}>1/2 Tom</button>
+        </div>
         <hr />
         <p className="acordes"><span className="tom">TOM:</span> {acordes[0]} </p>
         <br />
