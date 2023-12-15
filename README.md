@@ -1,4 +1,4 @@
-# :musical_note: Cifra Mágica :musical_note:
+# 🎵 Cifra Mágica 🎵
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
 
