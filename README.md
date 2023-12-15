@@ -1,8 +1,6 @@
 # 🎵 Cifra Mágica 
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
-
 # Explore a Aplicação em Funcionamento
 
 Convidamos você a explorar a aplicação **"Cifra Mágica"** em sua versão online: 
@@ -70,6 +68,8 @@ Copyright (c) 2023 Denisson Pereira Santos.
 
 ## ✏️ Autor 
 
-Denisson Pereira Santos
+Denisson Pereira 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
 
 https://github.com/DenissonPereira
