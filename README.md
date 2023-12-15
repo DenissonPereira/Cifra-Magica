@@ -1,5 +1,9 @@
 # 🎵 Cifra Mágica 
 
+## 📜 Licença
+
+Copyright (c) 2023 Denisson Pereira Santos
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
 
 # Explore a Aplicação em Funcionamento
@@ -37,7 +41,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 
 # 🚀 Como executar o projeto 🚀
 
-## Pré-requisitos
+## ⚙ Pré-requisitos
 
 Você precisa ter o npm instalado em seu computador. O npm está disponível com o NodeJS, e para baixá-lo, basta clicar no link abaixo:
 
