@@ -66,10 +66,10 @@ Aguarde a conclusão da compilação e vá para http://localhost:5173/Cifra-Magi
 
 Copyright (c) 2023 Denisson Pereira Santos.
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
+
 ## ✏️ Autor 
 
 Denisson Pereira 
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/Cifra-Magica/blob/main/LICENSE) 
 
 https://github.com/DenissonPereira
