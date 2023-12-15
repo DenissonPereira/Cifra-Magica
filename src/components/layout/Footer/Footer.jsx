@@ -12,22 +12,31 @@ import './Footer.sass'
 
 function Footer() {
   return (
-    <Container>
+    <Container className="text-center">
       <Row>
         <Col xs={{ order: "last" }}>
           <div className="redes">
             <p>Conheça nossas redes rociais:</p>
             <div className="icons">
-              <FaInstagram />
-              <FaGithub />
-              <CiLinkedin />
-              <TbWorld />
+              <div className="insta">
+                <FaInstagram />
+              </div>
+              <div className="git">
+                <FaGithub />
+              </div>
+              <div className="link">
+                <CiLinkedin />
+              </div>
+              <div className="site">
+                <TbWorld />
+              </div>
             </div>
           </div>
         </Col>
         <Col xs>
           <div className="segundo">
-            frefori
+            <p className="cake"><span>Cifra Mágica:</span> Transformando Melodias em Encantamentos!</p>
+            <p>&copy; 2023. <span>Denisson Pereira</span>.</p>
           </div>
         </Col>
         <Col xs={{ order: "first" }}>
