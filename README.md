@@ -29,8 +29,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 [![Badge](https://img.shields.io/badge/Sass-purple?style=flat&logo=sass&logoColor=white)](LINK_DO_SEU_PROJETO)
 
 
-[![Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)](https://react.dev/)
-
+[![Badge](https://img.shields.io/badge/javascript-yellow?logo=javascript)](https://react.dev/)
 
 [![Badge](https://img.shields.io/badge/React_Bootstrap-v2.9.1-purple?style=flat&logo=bootstrap&logoColor=white)](LINK_DO_SEU_BOOTSTRAP)
 
