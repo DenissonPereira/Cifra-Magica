@@ -1,10 +1,10 @@
-
+import "./DoloresResponsivo.sass";
 
 const VideoComponent = () => {
   const videoId = "hxeY8uDffO4"; 
 
   return (
-    <div>
+    <div className="iframe_video_dolores">
       <iframe
         width="500"
         height="315"

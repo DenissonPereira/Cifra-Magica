@@ -10,6 +10,8 @@ import LogoRaioSolar from "../../page/img/raiosolar.webp";
 import Doloresmusics from "./Doloresmusics";
 
 import "./Dolores.sass";
+import "./DoloresResponsivo.sass";
+import Footer from "../../../../../layout/Footer/Footer";
 
 function Dolores() {
   const [valorRange, setValorRange] = useState(0);
@@ -104,6 +106,7 @@ function Dolores() {
           </Col>
         </Row>
       </Container>
+      <Footer />
     </div>
   );
 }
