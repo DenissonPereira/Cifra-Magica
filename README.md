@@ -22,11 +22,10 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 
 # Tecnologias utilizadas
 
-- React;
 - Sass;
 - JavaScript;
 - Bootstrap.
-[![Badge](https://img.shields.io/badge/ReactJs-v18.2.0-blue?style=flat&logo=react&logoColor=white)](LINK_DO_SEU_REACT)
+[![Badge](https://img.shields.io/badge/ReactJs-v18.2.0-blue?style=flat&logo=react&logoColor=white)](https://react.dev/)
 
 
 ## Implantação em produção
@@ -39,7 +38,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 
 Você precisa ter o npm instalado em seu computador. O npm está disponível com o NodeJS, e para baixá-lo, basta clicar no link abaixo:
 
-[![NPM](https://img.shields.io/badge/NodeJS-228B22)](https://nodejs.org/en)
+[![NPM](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)](https://nodejs.org/en) 
 
 Após instalar o npm, instale as dependências do projeto com o seguinte comando no seu terminal:
 
