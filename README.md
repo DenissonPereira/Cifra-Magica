@@ -1,4 +1,4 @@
-# 🎵 Cifra Mágica 
+# 🎵 CIFRA MÁGICA
 
 
 # Explore a Aplicação em Funcionamento
