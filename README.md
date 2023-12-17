@@ -1,7 +1,7 @@
 # 🎵 Cifra Mágica
 
 
-# Explore a Aplicação em Funcionamento
+# 🔍 Explore a Aplicação em Funcionamento
 
 Convidamos você a explorar a aplicação **"Cifra Mágica"** em sua versão online: 
 
@@ -12,6 +12,8 @@ Convidamos você a explorar a aplicação **"Cifra Mágica"** em sua versão onl
 O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, proporcionando uma plataforma online dedicada à disponibilização de cifras para músicos de todos os níveis de habilidade. O objetivo principal do **Cifra Mágica** é facilitar a vida dos músicos, oferecendo recursos como *rolagem automática*, ideal para apresentações ao vivo, onde a praticidade é essencial. Além disso, uma característica distintiva do projeto é sua capacidade de alterar a cifra para *subir ou baixar o tom*, garantindo que os usuários possam ajustar as músicas de acordo com suas preferências vocais.
 
 ## 📸 Visuals and Screenshots
+
+Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em ação. As capturas de tela oferecem um vislumbre das principais características e do design envolvente.
 
 ### 💻 Layout web
 ![Web 1](./public/cifra1.gif) 
@@ -30,7 +32,7 @@ O projeto **"Cifra Mágica"** é uma iniciativa inovadora no mundo da música, p
 [![Badge](https://img.shields.io/badge/React_Bootstrap-v2.9.1-purple?style=flat&logo=bootstrap&logoColor=white)](https://react-bootstrap.netlify.app/)
 
 
-## Implantação em produção
+## 🌐 Implantação em produção
 
 - Web: `GitHub Pages`
 
