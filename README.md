@@ -23,7 +23,7 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 ### 📱 Layout mobile
 ![Mobile 1](./public/mob1.png) ![Mobile 2](./public/mob2.png)
 
-## Tecnologias utilizadas
+## 📚 Stack Tecnológica
 
 [![Badge](https://img.shields.io/badge/ReactJs-v18.2.0-blue?style=flat&logo=react&logoColor=white)](https://react.dev/)
 [![Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
