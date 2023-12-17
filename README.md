@@ -29,6 +29,7 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 [![Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![Badge](https://img.shields.io/badge/Sass-purple?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Badge](https://img.shields.io/badge/javascript-yellow?logo=javascript)](https://nodejs.org/en)
+[![Badge](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Badge](https://img.shields.io/badge/React_Bootstrap-v2.9.1-purple?style=flat&logo=bootstrap&logoColor=white)](https://react-bootstrap.netlify.app/)
 
 
