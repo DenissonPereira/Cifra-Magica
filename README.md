@@ -25,7 +25,9 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 
 ## 📚 Stack Tecnológica
 
+[![Badge](https://img.shields.io/badge/Vite%20-%238A2BE2?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Badge](https://img.shields.io/badge/ReactJs-v18.2.0-blue?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![Badge](https://img.shields.io/badge/React%20Router-6.20.0-%238A2BE2?style=flat&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![Badge](https://img.shields.io/badge/Sass-purple?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
