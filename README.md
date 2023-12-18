@@ -33,7 +33,8 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 [![Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Badge](https://img.shields.io/badge/Node.js-v21.4.0-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Badge](https://img.shields.io/badge/React_Bootstrap-v2.9.1-purple?style=flat&logo=bootstrap&logoColor=white)](https://react-bootstrap.netlify.app/)
-[![Badge](https://img.shields.io/badge/Icons-v4.2.0-red?style=flat&logo=react&logoColor=white)](https://react-icons.github.io/react-icons/)
+[![Badge](https://img.shields.io/badge/Icons-v4.2.0-hotpink?style=flat&logo=react&logoColor=white)](https://react-icons.github.io/react-icons/)
+
 
 
 
